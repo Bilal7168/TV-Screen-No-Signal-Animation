@@ -1,0 +1,3 @@
+C:\Users\Bilal Shahid\source\repos\ButtonAnim\ButtonAnim\Debug\ButtonAnim.vcxprojAssemblyReference.cache
+C:\Users\Bilal Shahid\source\repos\ButtonAnim\ButtonAnim\Debug\ButtonAnim.Anim.resources
+C:\Users\Bilal Shahid\source\repos\ButtonAnim\ButtonAnim\Debug\ButtonAnim.vcxproj.GenerateResource.cache
